@@ -172,7 +172,7 @@ The references pointing to *fix #nr* or *issue #nr* refer to our [issues tracker
 
 * Encrypted incremental backup cannot read the tar label (issue #952)
 
-* Introduction of the NETWORKING_PREPARATION_COMMANDS variable to override network settings on the client (issue #960)
+* Introduction of the NETWORKING_PREPARATION_COMMANDS variable to specify network settings in the rescue/recovery system (issue #960)
 
 * After migration fs_uuid for root partition wasn't changed in ELILO config file /etc/elilo.conf (issue #956)
 
